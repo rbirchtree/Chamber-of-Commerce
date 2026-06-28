@@ -21,3 +21,4 @@ I am a founder of a chamber of commerce website at this page https://rbirchtree.
 -events/ - Finished deliverables (reports, drafts, analysis)
 -resources/ - Reference docs, plugins and templates
 -seo/ - For robots and SEO
+-images/ -Pictures of the chamber's members i.e. Rob, Darrell, and Cullen.
